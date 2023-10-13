@@ -7,8 +7,7 @@ Welcome to my data analysis projects repository! This collection demonstrates my
 ## Projects
 
 - [Project 1: Project Title 1](Project1/): Description of Project 1.
-- [Project 2: Project Title 2](Project2/): Description of Project 2.
-- [Add more project links as needed]
+-
 
 ## Key Highlights
 
